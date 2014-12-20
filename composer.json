@@ -12,7 +12,8 @@
 	"require": {
 		"php": ">=5.2.11",
 		"zf1/zend-exception": "self.version",
-		"zf1/zend-locale": "self.version"
+		"zf1/zend-locale": "self.version",
+		"zf1/zend-registry": "self.version"
 	},
 	"autoload": {
 		"psr-0": {
